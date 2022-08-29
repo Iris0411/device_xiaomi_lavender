@@ -1528,6 +1528,9 @@ system_ext/framework/qti-telephony-common.jar|8c99640be5b9b9ee886bfc450b6923a33e
 # Radio - from jasmine - modified
 vendor/etc/init/netmgrd.rc|213d147cfcfe175aa4cdf1a345f3b148ea72982d
 
+# Radio - Telephony - from coral - google/coral/coral:12/SPB5.210812.002/7671067:user/release-keys
+system_ext/app/datastatusnotification/datastatusnotification.apk|f33ce45ec04a67b88e9f4da52378153c77d21e77
+
 # Radio - IMS - from jasmine
 -product/app/imssettings/imssettings.apk:system_ext/app/imssettings/imssettings.apk|a1cc6f2e1ab37fb24dadad5d3b45c425e72c1e4a
 -product/app/uceShimService/uceShimService.apk:system_ext/app/uceShimService/uceShimService.apk|a4f64644c7c7f4340745df98d9da5e3243134b21
